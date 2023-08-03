@@ -1,6 +1,6 @@
 export const filterOdd=(...arr)=>
 {
-    let ans=[]
+    let ans=[];
     arr.forEach(ele=>{
         if(ele%2!=0)
         {
